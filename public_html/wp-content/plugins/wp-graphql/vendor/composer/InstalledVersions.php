@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v1.2.5',
-    'version' => '1.2.5.0',
+    'pretty_version' => 'v1.3.5',
+    'version' => '1.3.5.0',
     'aliases' => 
     array (
     ),
-    'reference' => '1a615270266eee2b153570d9f319420e96fc0c7f',
+    'reference' => 'b2471c50f338080ea10c8f2f519cf141b32273b1',
     'name' => 'wp-graphql/wp-graphql',
   ),
   'versions' => 
@@ -55,12 +55,12 @@ private static $installed = array (
     ),
     'wp-graphql/wp-graphql' => 
     array (
-      'pretty_version' => 'v1.2.5',
-      'version' => '1.2.5.0',
+      'pretty_version' => 'v1.3.5',
+      'version' => '1.3.5.0',
       'aliases' => 
       array (
       ),
-      'reference' => '1a615270266eee2b153570d9f319420e96fc0c7f',
+      'reference' => 'b2471c50f338080ea10c8f2f519cf141b32273b1',
     ),
   ),
 );
